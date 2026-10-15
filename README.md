@@ -66,4 +66,4 @@ python main.py
 ---
 
 ## 📄 Documentation
-For the full mathematical derivations and detailed visual comparisons, check the [Project Report](docs\EE 475 hw1.pdf).
+For the full mathematical derivations and detailed visual comparisons, check the check the [Project Report](docs/EE%20475%20hw1.pdf)..
